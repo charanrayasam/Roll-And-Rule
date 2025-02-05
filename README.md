@@ -12,4 +12,6 @@ It's a two-player dice game where players roll the dice, accumulate points, and 
 ### Restart 🔄:
   Click "New Game" to reset and start fresh.
 ## 🚀 Live Demo
-https://roll-and-rule-01.netlify.app/
+https://roll-and-rule-01.netlify.app/<br>
+<br>
+🛠️ This project was created as part of the JavaScript course by Jonas Schmedtmann.
